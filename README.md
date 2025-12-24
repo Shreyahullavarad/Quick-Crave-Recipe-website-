@@ -10,8 +10,4 @@
   <li>Google Script (Database) </li>
   <li>cdnjs</li>
 </ul>
-<h3 align="center">Desktop View </h3>
-<img src="./img/mainpage.png">
-<img src="./img/recipe.png">
-<img src="./img/about.png">
-<img src="./img/contact.png">
+
